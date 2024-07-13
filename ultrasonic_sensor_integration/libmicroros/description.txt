@@ -1,0 +1,1 @@
+This project was created in the same directory as where the actual installation of micro-ros-pico-sdk occured. because of which, this directory contains the actual libmicroros. If you create a different folder then you will have to route the libmicroros in CMakeLists.txt.
